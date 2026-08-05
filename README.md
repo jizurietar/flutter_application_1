@@ -12,9 +12,9 @@ This project is a starting point for a Flutter application.
 
 ## Primera imagen de flutter corriendo
 
-Lanzando el emulador: flutter emulators --launch Pixel_4a
-Limpiando: flutter clean
-Corriendo: flutter run 
+Lanzando el emulador: flutter emulators --launch Pixel_4a.
+Limpiando: flutter clean.
+Corriendo: flutter run.
 
 ![alt text](image-2.png)
 
