@@ -6,6 +6,6 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-# Verificacion de la configuracion de flutter
+## Verificacion de la configuracion de flutter
 
 ![alt text](image.png)
