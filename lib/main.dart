@@ -13,6 +13,7 @@ class MiAppPerfil extends StatelessWidget {
     return MaterialApp(
       title: 'Mi Perfil Personal',
       theme: ThemeData(
+        // Color personalizado en el tema
         primarySwatch: Colors.indigo,
         scaffoldBackgroundColor: Colors.grey[50],
       ),
