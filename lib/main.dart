@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/profile.dart';
 
 void main() {
   runApp(const MiAppPerfil());
@@ -17,7 +18,7 @@ class MiAppPerfil extends StatelessWidget {
         primarySwatch: Colors.indigo,
         scaffoldBackgroundColor: Colors.grey[50],
       ),
-      //home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const PantallaPrincipal(),
     );
   }
 }
