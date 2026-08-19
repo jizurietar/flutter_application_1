@@ -56,6 +56,24 @@ class _PantallaPrincipalState extends State<PantallaPrincipal> {
                       child: Icon(Icons.person, size: 70, color: Colors.indigo),
                     ),
                   ),
+                  const SizedBox(height: 12),
+                  // Texto con Google Fonts
+                  Text(
+                    'David Izurieta',
+                    style: GoogleFonts.poppins(
+                      fontSize: 26,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.indigo.shade900,
+                    ),
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    'Desarrollador Flutter y Mobile',
+                    style: GoogleFonts.poppins(
+                      fontSize: 16,
+                      color: Colors.indigo.shade700,
+                    ),
+                  ),
                 ],
               ),
             ),
