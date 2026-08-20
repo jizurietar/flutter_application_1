@@ -48,5 +48,13 @@ Aplicación sencilla que muestra un perfil personal con información del usuario
 ### Uso del paquete google_fonts (fuente Poppins)
 ![Google Fonts](capturas/google_fonts_uso.png)
 
+### Paseo por la creacion de la aplicacion
+[Pantalla de mi perfil](capturas/image01.png)
+[Body de la app](capturas/image02.png)
+[Icono del perfil](capturas/image03.png)
+[Nombre del perfil y actividad](capturas/image04.png)
+[Usando Row](capturas/image05.png)
+[Creacion del botón de eventos](capturas/image06.png)
+
 ## Autor
 **JAIME DAVID IZURIETA ROSERO**
