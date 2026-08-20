@@ -1,9 +1,8 @@
 # Mi Primera Aplicación en Flutter - Perfil Personal
 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+# Objetivo
+Desarrollar una aplicación básica en Flutter que demuestre la creación de un proyecto, el uso de widgets iniciales, ejecución en emulador, instalación de un paquete externo y publicación en GitHub.
 
 ## Verificacion de la configuracion de flutter
 
