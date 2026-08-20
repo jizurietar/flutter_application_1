@@ -71,9 +71,15 @@ class _PantallaPrincipalState extends State<PantallaPrincipal> {
                         width: 3,
                       ),
                     ),
-                    child: const Padding(
+                    /*child: const Padding(
                       padding: EdgeInsets.all(20.0),
                       child: Icon(Icons.person, size: 70, color: Colors.indigo),
+                    ),*/
+                    child: CircleAvatar(
+                      radius:
+                          54, // slightly smaller to fit the border inside if needed, or let it overlap.
+                      backgroundColor: Colors.indigo.shade50,
+                      backgroundImage: AssetImage('assets/images/yo.jpg'),
                     ),
                   ),
                   const SizedBox(height: 12),

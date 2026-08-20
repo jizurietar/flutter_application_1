@@ -68,5 +68,8 @@ Aplicación sencilla que muestra un perfil personal con información del usuario
 ### Creacion del botón de eventos
 ![Creacion del botón de eventos](capturas/image06.png)
 
+### Nueva Imaen
+![Nueva Imagen](capturas/image07.png)
+
 ## Autor
 **JAIME DAVID IZURIETA ROSERO**
