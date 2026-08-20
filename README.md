@@ -1,6 +1,5 @@
-# Activida Integradora 1
+# Mi Primera Aplicación en Flutter - Perfil Personal
 
-A new Flutter project.
 
 ## Getting Started
 
