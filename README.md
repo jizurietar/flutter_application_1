@@ -41,3 +41,12 @@ Aplicación sencilla que muestra un perfil personal con información del usuario
 
 ### Pantalla principal (estado inicial)
 ![Pantalla Principal](capturas/pantalla_principal.png)
+
+### Funcionamiento del botón (mostrando información extra)
+![Botón Funcionando](capturas/boton_funcionando.png)
+
+### Uso del paquete google_fonts (fuente Poppins)
+![Google Fonts](capturas/google_fonts_uso.png)
+
+## Autor
+**JAIME DAVID IZURIETA ROSERO**
